@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/yihuo/antlr/antlr4-cpp-runtime-4.9-source'
+make: Leaving directory '/home/yihuo/antlr/antlr4-cpp-runtime-4.9-source'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
